@@ -1,0 +1,12 @@
+http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule&smartresult=ugc&sessionFrom=http://www.youdao.com/
+
+type:AUTO
+i:i love you
+doctype:json
+xmlVersion:1.6
+keyfrom:fanyi.web
+ue:UTF-8
+typoResult:true
+
+
+                          {"type":"EN2ZH_CN","errorCode":0,"elapsedTime":1,"translateResult":[[{"src":"i love you","tgt":"我爱你"}]]}
